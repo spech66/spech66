@@ -10,5 +10,5 @@ Tech Lead 💻 Instructor 👨‍🏫 Coach🧙‍.
 - 💻 C, C++, C#, JavaScript, TypeScript, PowerShell, Shell, Python, ...
 - 👀 Go, Rust
 - 📫 How to reach me: [SebastianPech.com](https://www.sebastianpech.com)
-- 📜 Senior Software Engineer, DevOps Engineer, Full-Stack Developer
+- 📜 Tech Lead, Senior Software Engineer, DevOps Engineer, Full-Stack Developer
 - 😄 Likes: 💙 dancing, yoga, pets and life. 🕺🐶🦄🐻🦎🐍🏋️‍♂️🧘‍♂️🍨🏃‍♂️🎮🎼🔥🌌
